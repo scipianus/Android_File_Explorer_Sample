@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Finder</string>
+    <string name="error_message">Failed to load results, please try again.</string>
+    <string name="input_1">Input 1</string>
+    <string name="input_2">Input 2</string>
+    <string name="input_3">Input 3</string>
+    <string name="null_directory">ERROR: Null directory</string>
+    <string name="back">BACK</string>
+    <string name="item_image">Item image</string>
+</resources>
